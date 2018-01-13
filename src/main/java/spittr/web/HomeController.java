@@ -13,5 +13,3 @@ public class HomeController {
         return "home";
     }
 }
-
-//DUPA
