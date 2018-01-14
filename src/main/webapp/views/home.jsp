@@ -8,9 +8,8 @@
     </head>
 
     <body>
-        <h1>Witamy w serwisie</h1>
+        <h1>Witamy kurwa</h1>
         <a href="<c:url value="/spittles" />">Spittle</a> |
         <a href="<c:url value="/spitter/register" />">Rejestracja</a>
     </body>
-
 </html>

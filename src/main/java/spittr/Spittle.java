@@ -43,15 +43,17 @@ public class Spittle {
         return longitude;
     }
 
-    /*
+
     @Override
     public boolean equals(Object that) {
-        return EqualsBuilder.reflectionEquals(this, that, "id", "time");
+        //return EqualsBuilder.reflectionEquals(this, that, "id", "time");
+        return EqualsBuilder.reflectionEquals(this, that);
     }
 
     @Override
     public int hashCode() {
-        return HashCodeBuilder.reflectionHashCode(this,"id", "time");
+        //return HashCodeBuilder.reflectionHashCode(this,"id", "time");
+        return HashCodeBuilder.reflectionHashCode(this);
     }
-    */
+
 }

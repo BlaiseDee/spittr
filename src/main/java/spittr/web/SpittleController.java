@@ -10,7 +10,7 @@ import spittr.data.SpittleRepository;
 import java.util.List;
 
 @Controller
-@RequestMapping("/spittles")
+@RequestMapping(value = "/spittles")
 public class SpittleController {
 
     private SpittleRepository spittleRepository;
