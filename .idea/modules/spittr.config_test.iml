@@ -18,6 +18,7 @@
     <orderEntry type="library" name="Gradle: org.springframework:spring-webmvc:4.1.6.RELEASE" level="project" />
     <orderEntry type="library" name="Gradle: javax.servlet:jstl:1.2" level="project" />
     <orderEntry type="library" name="Gradle: com.diva-e.parallel-test-runner:parallel-test-runner:1.0.0" level="project" />
+    <orderEntry type="library" name="Gradle: commons-lang:commons-lang:2.2" level="project" />
     <orderEntry type="library" name="Gradle: javax.servlet:javax.servlet-api:4.0.0" level="project" />
     <orderEntry type="library" name="Gradle: org.springframework.boot:spring-boot-starter-test:1.5.2.RELEASE" level="project" />
     <orderEntry type="library" name="Gradle: junit:junit:4.12" level="project" />
